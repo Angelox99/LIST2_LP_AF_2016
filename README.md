@@ -1,2 +1,7 @@
 # LIST2_LP_AF_2016
-Lista solicitada pelo professor Herbert da disciplina Linguagens de Programação
+Aluno: Angelo Almeida Ferro
+E-mail: Angelo.Sonic@gmail.com
+Disciplina: Linguagens de Programação(LP)
+Professor: Herbert Rocha
+
+
